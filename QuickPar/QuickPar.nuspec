@@ -13,7 +13,7 @@
     <copyright>2003 Peter B. Clements</copyright>
     <licenseUrl>http://www.quickpar.org.uk/ReleaseNotes.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/QuickPar/QuickPar.gif</iconUrl>
+    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/QuickPar/QuickPar.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
