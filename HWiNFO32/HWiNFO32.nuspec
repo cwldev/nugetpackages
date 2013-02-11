@@ -13,7 +13,7 @@
     <copyright>REALiX Corp.</copyright>
     <licenseUrl>http://www.hwinfo.com/contact.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/HWiNFO32/HWiNFO32.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/HWiNFO32/HWiNFO32.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
