@@ -4,12 +4,12 @@
     <id>Logmein.Client</id>
     <title>Logmein Client</title>
     <version>4.1.0.2651</version>
-    <authors>__REPLACE__</authors>
+    <authors>Logmein Inc.</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-    <summary>Logmein.Client</summary>
-    <description>Logmein.Client</description>
+    <summary>Logmein - Remote Access Client</summary>
+    <description>LogMeIn Free offers free remote access to your desktop so you can open files, check your email, run programs and stay productive from your mobile device or any computer over the Internet. Easy to use and 100% FREE.</description>
     <projectUrl>https://secure.logmein.com/products/free</projectUrl>
-    <tags>Logmein.Clent Remote </tags>
+    <tags>Logmein.Clent Remote admin</tags>
     <copyright>LogMeIn, Inc.</copyright>
     <licenseUrl>https://secure.logmein.com/policies/termsandconditions.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
