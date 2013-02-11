@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Eraser</id>
-    <title>Eraser</title>
-    <version>6.0.10</version>
-    <authors>Joel Low</authors>
+    <id>FBReader</id>
+    <title>FBReader</title>
+    <version>0.12.10</version>
+    <authors>Nikolay Pultsin</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-    <summary>Eraser</summary>
-    <description>Eraser</description>
-    <projectUrl>http://eraser.heidi.ie</projectUrl>
-    <tags>Eraser admin</tags>
-    <copyright>2008-2013 © Eraser</copyright>
+    <summary>FBReader</summary>
+    <description>FBReader</description>
+    <projectUrl>http://fbreader.org/win32</projectUrl>
+    <tags>FBReader admin</tags>
+    <copyright>Geometer Plus</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/Eraser/Eraser.gif</iconUrl>-->
+    <iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/FBReader/FBReader.gif</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
