@@ -13,7 +13,7 @@
     <copyright>LogMeIn, Inc.</copyright>
     <licenseUrl>https://secure.logmein.com/policies/termsandconditions.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/__NAME__/__NAME__.gif</iconUrl>
+    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/Logmein.Client/Logmein.Client.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
