@@ -9,11 +9,11 @@
     <summary>FBReader</summary>
     <description>FBReader</description>
     <projectUrl>http://fbreader.org/win32</projectUrl>
-    <tags>FBReader admin</tags>
+    <tags>FBReader EPUB Reader Books</tags>
     <copyright>Geometer Plus</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/FBReader/FBReader.gif</iconUrl>
+    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/FBReader/FBReader.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
