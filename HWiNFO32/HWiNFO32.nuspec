@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HWiNFO32</id>
+    <title>HWiNFO32</title>
+    <version>4.12.1850</version>
+    <authors>Martin Malik</authors>
+    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+    <summary>HWiNFO32 - Hardware Information</summary>
+    <description>HWiNFO32 is a professional hardware information and diagnostic tools supporting latest components, industry technologies and standards. These tools are designed to collect and present the maximum amount of information possible about computer's hardware which makes them suitable for users searching for driver updates, computer manufacturers, system integrators and technical experts as well. Retrieved information is presented in a logical and easily understandable form and can be exported into various types of reports. </description>
+    <projectUrl>http://www.hwinfo.com</projectUrl>
+    <tags>HWiNFO32 Hardware Information Diagnostic</tags>
+    <copyright>REALiX Corp.</copyright>
+    <licenseUrl>http://www.hwinfo.com/contact.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/HWiNFO32/HWiNFO32.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
