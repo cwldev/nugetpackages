@@ -1,15 +1,15 @@
 ﻿#NOTE: Please remove any commented lines to tidy up prior to releasing the package, including this one
 
 $packageName = 'netscan64' # arbitrary name for the package, used in messages
-$installerType = 'EXE_OR_MSI' #only one of these two: exe or msi
-$url = 'URL_HERE' # download url
+$installerType = 'EXE' #only one of these two: exe or msi
+$url = 'https://github.com/calwell/nugetpackages/raw/master/netscan64/netscan64.zip' # download url
 $url64 = $url # 64bit URL here or just use the same as $url
-$silentArgs = 'SILENT_ARGS_HERE' # "/s /S /q /Q /quiet /silent /SILENT /VERYSILENT" # try any of these to get the silent installer #msi is always /quiet
+$silentArgs = '' # "/s /S /q /Q /quiet /silent /SILENT /VERYSILENT" # try any of these to get the silent installer #msi is always /quiet
 $validExitCodes = @(0) #please insert other valid exit codes here, exit codes for ms http://msdn.microsoft.com/en-us/library/aa368542(VS.85).aspx
 
 # main helpers - these have error handling tucked into them already
 # installer, will assert administrative rights
-Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" "$url64"  -validExitCodes $validExitCodes
+# Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" "$url64"  -validExitCodes $validExitCodes
 # download and unpack a zip file
 Install-ChocolateyZipPackage "$packageName" "$url" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" "$url64"
 

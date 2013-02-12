@@ -2,18 +2,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>netscan64</id>
-    <title>netscan64</title>
-    <version>__REPLACE__</version>
-    <authors>__REPLACE__</authors>
+    <title>SoftPerfect Network Scanner 64bit</title>
+    <version>5.4.9</version>
+    <authors>SoftPerfect Research</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-    <summary>netscan64</summary>
-    <description>netscan64</description>
-    <projectUrl>__REPLACE__</projectUrl>
-    <tags>netscan64 admin</tags>
-    <copyright></copyright>
-    <licenseUrl>__REPLACE__</licenseUrl>
+    <summary>SoftPerfect Network Scanner</summary>
+    <description>SoftPerfect Network Scanner is a free multi-threaded IP, NetBIOS and SNMP scanner with a modern interface and many advanced features. It is intended for both system administrators and general users interested in computer security. The program pings computers, scans for listening TCP/UDP ports and displays which types of resources are shared on the network (including system and hidden).
+In addition, it allows you to mount shared folders as network drives, browse them using Windows Explorer, filter the results list and more. SoftPerfect Network Scanner can also check for a user-defined port and report back if one is open. It can also resolve host names and auto-detect your local and external IP range. It supports remote shutdown and Wake-On-LAN.</description>
+    <projectUrl>http://www.softperfect.com/products/networkscanner</projectUrl>
+    <tags>netscan64 portscanner network netbios snmp</tags>
+    <copyright>2000–2013 SoftPerfect Research</copyright>
+    <licenseUrl>http://www.softperfect.com/terms.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/netscan64/netscan64.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/netscan64/netscan64.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
