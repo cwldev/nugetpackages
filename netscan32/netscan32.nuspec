@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>netscan32</id>
+    <title>netscan32</title>
+    <version>__REPLACE__</version>
+    <authors>__REPLACE__</authors>
+    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+    <summary>netscan32</summary>
+    <description>netscan32</description>
+    <projectUrl>__REPLACE__</projectUrl>
+    <tags>netscan32 admin</tags>
+    <copyright></copyright>
+    <licenseUrl>__REPLACE__</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/netscan32/netscan32.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
