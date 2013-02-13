@@ -13,7 +13,7 @@
     <copyright>1997-2013 Tracker Software Products</copyright>
     <licenseUrl>http://help.tracker-software.com/endusers/view/End_User_License_Agreement</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/PDFXChangeViewer/PDFXChangeViewer.gif</iconUrl>-->
+    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/PDFXChangeViewer/PDFXChangeViewer.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
