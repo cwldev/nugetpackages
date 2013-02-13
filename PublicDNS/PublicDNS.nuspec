@@ -9,11 +9,11 @@
     <summary>Public DNS - change the DNS servers to OpenDNS, Google, Norton or Comodo Secure on the fly.</summary>
     <description>Public DNS Server Tool is a small utility for changing the DNS servers in Windows XP, Vista,  7 and 8 on the fly. You can use the Public DNS Server Tool to quickly switch the DNS servers to one of the well known public DNS servers.</description>
     <projectUrl>http://www.trishtech.com/downloads/dnstool</projectUrl>
-    <tags>PublicDNS admin</tags>
+    <tags>PublicDNS dns network configuration</tags>
     <copyright>2009 - 2013, TrishTech.com</copyright>
     <licenseUrl>http://www.trishtech.com/downloads/dnstool</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/PublicDNS/PublicDNS.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/PublicDNS/PublicDNS.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
