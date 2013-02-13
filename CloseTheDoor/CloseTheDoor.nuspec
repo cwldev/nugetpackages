@@ -13,7 +13,7 @@
     <copyright>2012 MatSpoon</copyright>
     <licenseUrl>http://sourceforge.net/directory/license:gplv3</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/CloseTheDoor/CloseTheDoor.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/CloseTheDoor/CloseTheDoor.gif</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
