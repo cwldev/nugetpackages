@@ -7,18 +7,13 @@
     <authors>NirSoft</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>ProduKey - Display Product Keys</summary>
-    <description>ProduKey is a small utility that displays the ProductID and the CD-Key of
-MS-Office, Windows, Exchange Server, and SQL Server installed on your
-computer. You can view this information for your current running
-operating system, or for another operating system/computer - by using
-command-line options. This utility can be useful if you lost the product
-key of your Windows/Office, and you want to reinstall it on your computer.</description>
+    <description>ProduKey is a small utility that displays the ProductID and the CD-Key of MS-Office, Windows, Exchange Server, and SQL Server installed on your computer. You can view this information for your current running operating system, or for another operating system/computer - by using command-line options. This utility can be useful if you lost the product key of your Windows/Office, and you want to reinstall it on your computer.</description>
     <projectUrl>http://nirsoft.net/utils/product_cd_key_viewer.html</projectUrl>
     <tags>ProduKey cd-key office recover</tags>
     <copyright>2005 - 2012 Nir Sofer</copyright>
     <licenseUrl>http://nirsoft.net/utils/product_cd_key_viewer.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/ProduKey/ProduKey.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/ProduKey/ProduKey.gif</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
