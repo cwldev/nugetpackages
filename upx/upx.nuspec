@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>upx</id>
+    <title>upx</title>
+    <version>3.08w</version>
+    <authors>Markus Oberhumer, Laszlo Molnar, John Reiser</authors>
+    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+    <summary>upx - Ultimate Packer for eXecutables</summary>
+    <description>UPX achieves an excellent compression ratio and offers very fast decompression. Your executables suffer no memory overhead or other drawbacks for most of the formats supported, because of in-place decompression.</description>
+    <projectUrl>http://upx.sourceforge.net</projectUrl>
+    <tags>executable compression packer exepacker</tags>
+    <copyright>Markus Oberhumer, Laszlo Molnar, John Reiser</copyright>
+    <licenseUrl>http://upx.sourceforge.net/upx-license.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/upx/upx.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
