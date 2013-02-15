@@ -9,9 +9,9 @@ $validExitCodes = @(0) #please insert other valid exit codes here, exit codes fo
 
 # main helpers - these have error handling tucked into them already
 # installer, will assert administrative rights
-Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" "$url64"  -validExitCodes $validExitCodes
+# Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" "$url64"  -validExitCodes $validExitCodes
 # download and unpack a zip file
-# Install-ChocolateyZipPackage "$packageName" "$url" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" "$url64"
+Install-ChocolateyZipPackage "$packageName" "$url" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" "$url64"
 
 #try { #error handling is only necessary if you need to do anything in addition to/instead of the main helpers
   # other helpers - using any of these means you want to uncomment the error handling up top and at bottom.
