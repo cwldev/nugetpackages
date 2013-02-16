@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OpenOffice</id>
+    <title>Apache OpenOffice</title>
+    <version>3.4.1</version>
+    <authors>Apache Software Foundation</authors>
+    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+    <summary>OpenOffice - The Free and Open Productivity Suite</summary>
+    <description>Free alternative for Office productivity tools: Apache OpenOffice - formerly known as OpenOffice.org - is an open-source office productivity software suite containing word processor, spreadsheet, presentation, graphics, formula editor, and database management applications. OpenOffice is available in many languages, works on all common computers, stores data in ODF - the international open standard format - and is able to read and write files in other formats, included the format used by the most common office suite packages. OpenOffice is also able to export files in PDF format. OpenOffice has supported extensions, in a similar manner to Mozilla Firefox, making easy to add new functionality to an existing OpenOffice installation.</description>
+    <projectUrl>http://sourceforge.net/projects/openofficeorg.mirror/</projectUrl>
+    <tags>OpenOffice Apache Calc Impress Draw ODF</tags>
+    <copyright>2012 Apache Software Foundation</copyright>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/OpenOffice/OpenOffice.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
