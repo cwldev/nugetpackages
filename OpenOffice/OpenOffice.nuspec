@@ -13,7 +13,7 @@
     <copyright>2012 Apache Software Foundation</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/OpenOffice/OpenOffice.gif</iconUrl>-->
+    <iconUrl>https://github.com/calwell/nugetpackages/raw/master/OpenOffice/OpenOffice.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
