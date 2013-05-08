@@ -1,26 +1,19 @@
-<?xml version="1.0"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-  <metadata>
-    <id>PDFXChangeViewer</id>
-    <title>PDFXChangeViewer</title>
-    <version>2.5.209</version>
-    <authors>Tracker Software</authors>
-    <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-    <summary>PDF-XChange Viewer - PDF Reader</summary>
-    <description>A FREE pdf reader alternative to the Adobe Reader! The PDF-XChange Viewer is smaller, faster and more feature rich than any other FREE PDF Reader/ PDF Viewer/ PDF Editor available.</description>
-    <projectUrl>http://www.tracker-software.com/product/pdf-xchange-viewer</projectUrl>
-    <tags>PDFXChangeViewer pdf reader viewer</tags>
-    <copyright>1997-2013 Tracker Software Products</copyright>
-    <licenseUrl>http://help.tracker-software.com/endusers/view/End_User_License_Agreement</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/PDFXChangeViewer/PDFXChangeViewer.png</iconUrl>
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
-    <releaseNotes></releaseNotes>
-  </metadata>
-  <files>
-    <file src="tools\**" target="tools" />
-    <!--<file src="content\**" target="content" />-->
-  </files>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>PDFXChangeViewer</id>
+        <version>2.5.210</version>
+        <title>PDFXChangeViewer</title>
+        <authors>Tracker Software</authors>
+        <owners>__CHOCO_PKG_OWNER_NAME__</owners>
+        <licenseUrl>http://help.tracker-software.com/endusers/view/End_User_License_Agreement</licenseUrl>
+        <projectUrl>http://www.tracker-software.com/product/pdf-xchange-viewer</projectUrl>
+        <iconUrl>https://raw.github.com/calwell/nugetpackages/master/PDFXChangeViewer/PDFXChangeViewer.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A FREE pdf reader alternative to the Adobe Reader! The PDF-XChange Viewer is smaller, faster and more feature rich than any other FREE PDF Reader/ PDF Viewer/ PDF Editor available.</description>
+        <summary>PDF-XChange Viewer - PDF Reader</summary>
+        <releaseNotes />
+        <copyright>1997-2013 Tracker Software Products</copyright>
+        <tags>PDFXChangeViewer pdf reader viewer</tags>
+    </metadata>
 </package>
