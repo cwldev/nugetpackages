@@ -7,9 +7,9 @@
     <authors>Christian Kindahl</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>InfraRecorder</summary>
-    <description>InfraRecorder</description>
+    <description>InfraRecorder is a free CD/DVD burning solution for Microsoft Windows. It offers a wide range of powerful features; all through an easy to use application interface and Windows Explorer integration.</description>
     <projectUrl>http://sourceforge.net/projects/infrarecorder</projectUrl>
-    <tags>InfraRecorder admin</tags>
+    <tags>InfraRecorder cd dvd iso data</tags>
     <copyright>2006-2012 Christian Kindahl</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
