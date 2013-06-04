@@ -3,13 +3,13 @@
   <metadata>
     <id>HWiNFO32</id>
     <title>HWiNFO32</title>
-    <version>4.12.1850</version>
+    <version>4.18.1930</version>
     <authors>Martin Malik</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>HWiNFO32 - Hardware Information</summary>
     <description>HWiNFO32 is a professional hardware information and diagnostic tools supporting latest components, industry technologies and standards. These tools are designed to collect and present the maximum amount of information possible about computer's hardware which makes them suitable for users searching for driver updates, computer manufacturers, system integrators and technical experts as well. Retrieved information is presented in a logical and easily understandable form and can be exported into various types of reports. </description>
     <projectUrl>http://www.hwinfo.com</projectUrl>
-    <tags>HWiNFO32 Hardware Information Diagnostic</tags>
+    <tags>HWiNFO Hardware Information Diagnostic</tags>
     <copyright>REALiX Corp.</copyright>
     <licenseUrl>http://www.hwinfo.com/contact.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
