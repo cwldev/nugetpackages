@@ -9,11 +9,11 @@
     <summary>EXE, DLL, OCX, CPL icon grabber-extractor</summary>
     <description>The IconsExtract utility scans the files and folders on your computer, and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in other file types. You can save the extracted icons to ICO files (or CUR files for cursors), or copy the image of a single icon into the clipboard.</description>
     <projectUrl>http://www.nirsoft.net/utils/iconsext.html</projectUrl>
-    <tags>extract icons cursor exe dll</tags>
+    <tags>IconsExt IconsExtract extract icons cursor exe dll</tags>
     <copyright>2003–2013 Nir Sofer</copyright>
     <licenseUrl>http://www.nirsoft.net/utils/iconsext.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/__CHOCO_PKG_OWNER_REPO__/raw/master/IconsExtract/IconsExtract.gif</iconUrl>
+    <iconUrl>https://raw.github.com/calwell/nugetpackages/master/IconsExtract/IconsExtract.gif</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
