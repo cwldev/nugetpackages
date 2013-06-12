@@ -3,13 +3,13 @@
   <metadata>
     <id>RegAlyzer</id>
     <title>RegAlyzer</title>
-    <version>1.6.2.16</version>
+    <version>1.6.2.161</version>
     <authors>Safer-Networking Ltd.</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>RegAlyzer</summary>
-    <description>RegAlyzer</description>
+    <description>RegAlyzer is a tool to browse and change the registry. It was created because of a few features we missed in the original regedit tool, from support for exotic value types over background and regular expression search to better bookmarks, displaying .reg files in the accustomed style and a history view.</description>
     <projectUrl>http://www.safer-networking.org/products/regalyzer</projectUrl>
-    <tags>RegAlyzer Registry Search</tags>
+    <tags>RegAlyzer Registry Search Edit</tags>
     <copyright>Safer-Networking Ltd.</copyright>
     <licenseUrl>http://www.safer-networking.org/legal-info</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
