@@ -3,11 +3,11 @@
   <metadata>
     <id>QuickPar</id>
     <title>QuickPar</title>
-    <version>0.9.1</version>
+    <version>0.9.1.1</version>
     <authors>Peter B. Clements</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-    <summary>QuickPar</summary>
-    <description>QuickPar</description>
+    <summary>QuickPar - a utility for creating Parity Volumes</summary>
+    <description>QuickPar is a utility for creating Parity Volumes using the Reed Solomon algorithm. For details of the algorithm used, see the parchive website at SourceForge. Parity Volumes may be used to verify that a set of files have not been corrupted, or to reconstruct damaged files (providing that you have a sufficient quantity of Parity Volumes to match the missing or damaged files).</description>
     <projectUrl>http://www.quickpar.org.uk</projectUrl>
     <tags>QuickPar recovery PAR</tags>
     <copyright>2003 Peter B. Clements</copyright>
