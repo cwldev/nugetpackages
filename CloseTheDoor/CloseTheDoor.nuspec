@@ -3,13 +3,13 @@
   <metadata>
     <id>CloseTheDoor</id>
     <title>CloseTheDoor</title>
-    <version>0.2.1</version>
+    <version>0.2.1.1</version>
     <authors>Mat Spoon</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>CloseTheDoor</summary>
-    <description>CloseTheDoor</description>
+    <description>CloseTheDoor indentifies all the listening ports TCP/UDP over IPv4/v6 and the associated program files. This will help you to detect security holes and close backdoors when you want to prevent remote attacks.</description>
     <projectUrl>http://sourceforge.net/projects/closethedoor</projectUrl>
-    <tags>CloseTheDoor network debugging ports</tags>
+    <tags>CloseTheDoor network debugging monitoring ports</tags>
     <copyright>2012 MatSpoon</copyright>
     <licenseUrl>http://sourceforge.net/directory/license:gplv3</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

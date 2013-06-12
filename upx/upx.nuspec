@@ -3,7 +3,7 @@
   <metadata>
     <id>upx</id>
     <title>upx</title>
-    <version>3.08</version>
+    <version>3.09</version>
     <authors>Markus Oberhumer, Laszlo Molnar, John Reiser</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>upx - Ultimate Packer for eXecutables</summary>

@@ -3,11 +3,11 @@
   <metadata>
     <id>FBReader</id>
     <title>FBReader</title>
-    <version>0.12.10</version>
+    <version>0.12.10.1</version>
     <authors>Nikolay Pultsin</authors>
     <owners>__CHOCO_PKG_OWNER_NAME__</owners>
     <summary>FBReader</summary>
-    <description>FBReader</description>
+    <description>Free e-Book Reader</description>
     <projectUrl>http://fbreader.org/win32</projectUrl>
     <tags>FBReader EPUB Reader Books</tags>
     <copyright>Geometer Plus</copyright>
