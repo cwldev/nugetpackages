@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>PDFXChangeViewer</id>
-        <version>2.5.210</version>
+        <version>2.5.211</version>
         <title>PDFXChangeViewer</title>
         <authors>Tracker Software</authors>
         <owners>__CHOCO_PKG_OWNER_NAME__</owners>
