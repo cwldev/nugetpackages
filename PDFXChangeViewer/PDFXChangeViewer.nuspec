@@ -6,7 +6,7 @@
         <title>PDFXChangeViewer</title>
         <authors>Tracker Software</authors>
         <owners>__CHOCO_PKG_OWNER_NAME__</owners>
-        <licenseUrl>http://help.tracker-software.com/endusers/view/End_User_License_Agreement</licenseUrl>
+        <licenseUrl>http://www.tracker-software.com/PDFVLicense.pdf‎</licenseUrl>
         <projectUrl>http://www.tracker-software.com/product/pdf-xchange-viewer</projectUrl>
         <iconUrl>https://raw.github.com/calwell/nugetpackages/master/PDFXChangeViewer/PDFXChangeViewer.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
